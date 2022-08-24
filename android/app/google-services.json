@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012650338335",
+    "project_id": "ipssiflutter2022",
+    "storage_bucket": "ipssiflutter2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012650338335:android:48b419b874dfaf5c9f0d2a",
+        "android_client_info": {
+          "package_name": "com.example.flutterapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012650338335-lebpf3qkdjn802jtk8qsvr3l2kgnit9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KJPtdxehG0OyRYo-GoOCGclVoQgEAiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012650338335-lebpf3qkdjn802jtk8qsvr3l2kgnit9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
